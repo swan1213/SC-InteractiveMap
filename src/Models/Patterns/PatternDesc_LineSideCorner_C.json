@@ -1,0 +1,16 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Lines/PatternDesc_LineSideCorner.PatternDesc_LineSideCorner_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_SideCornerLine_256.png",
+        "patternName"   : "Side Corner Line",
+        "patternGroup"  : "Lines",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-400,-400],[-385,-400],[-385,385],[400,385],[400,400],[-400,400]
+                ]
+            }
+        ]
+    }
+}

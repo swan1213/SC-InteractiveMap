@@ -1,0 +1,31 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Pathways/PatternDesc_FullZebra.PatternDesc_FullZebra_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_LargeCrosswalk_256.png",
+        "patternName"   : "Large Crosswalk",
+        "patternGroup"  : "Paths",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-400,-400],[-400,-330],[400,-330],[400,-400]
+                ]
+            },
+            {
+                "points": [
+                    [-400,-200],[400,-200],[400,-70],[-400,-70]
+                ]
+            },
+            {
+                "points": [
+                    [-400,200],[400,200],[400,70],[-400,70]
+                ]
+            },
+            {
+                "points": [
+                    [-400,400],[-400,330],[400,330],[400,400]
+                ]
+            }
+        ]
+    }
+}
