@@ -1,4 +1,3 @@
-# Satisfactory-Calculator Interactive Map aka "SCIM"
 This repository is here for bug reporting and is not intended to be forked or deployed in any means.
 
 
@@ -11,14 +10,6 @@ A game from [Coffee Stain Studios](https://www.coffeestainstudios.com/)
 You can see a [Live Example](https://satisfactory-calculator.com/en/interactive-map?url=https://github.com/AnthorNet/SC-InteractiveMap/raw/main/CREATIVE%20TEST.sav)
 
 [![SCIM](./img/readmeImage.jpg)](https://satisfactory-calculator.com/en/interactive-map)
-
-
-<!-- SOCIAL -->
-## Social media links
-
-[Discord](https://discord.gg/0sFOD6GxFZRc1ad0)  
-[Twitter](https://twitter.com/AnthorNet)  
-
 
 <!-- LICENSE -->
 ## License
@@ -58,4 +49,3 @@ server {
         return 200;
     }
  }
-```
