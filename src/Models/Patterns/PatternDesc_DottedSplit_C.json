@@ -1,0 +1,31 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Lines/PatternDesc_DottedSplit.PatternDesc_DottedSplit_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_SplitDottedLine_256.png",
+        "patternName"   : "Split Dotted Line",
+        "patternGroup"  : "Lines",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-15,-350],[15,-350],[15,-170],[-15,-170]
+                ]
+            },
+            {
+                "points": [
+                    [-350,-15],[-350,15],[-170,15],[-170,-15]
+                ]
+            },
+            {
+                "points": [
+                    [-15,-90],[15,-90],[15,-15],[90,-15],[90,15],[-90,15],[-90,-15],[-15,-15]
+                ]
+            },
+            {
+                "points": [
+                    [350,-15],[350,15],[170,15],[170,-15]
+                ]
+            }
+        ]
+    }
+}

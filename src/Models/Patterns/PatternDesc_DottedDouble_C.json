@@ -1,0 +1,42 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Lines/PatternDesc_DottedDouble.PatternDesc_DottedDouble_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_DoubleDottedLine_256.png",
+        "patternName"   : "Double Dotted Line",
+        "patternGroup"  : "Lines",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-400,-350],[-385,-350],[-385,-170],[-400,-170]
+                ]
+            },
+            {
+                "points": [
+                    [-400,-90],[-385,-90],[-385,90],[-400,90]
+                ]
+            },
+            {
+                "points": [
+                    [-400,350],[-385,350],[-385,170],[-400,170]
+                ]
+            },
+
+            {
+                "points": [
+                    [400,-350],[385,-350],[385,-170],[400,-170]
+                ]
+            },
+            {
+                "points": [
+                    [400,-90],[385,-90],[385,90],[400,90]
+                ]
+            },
+            {
+                "points": [
+                    [400,350],[385,350],[385,170],[400,170]
+                ]
+            }
+        ]
+    }
+}

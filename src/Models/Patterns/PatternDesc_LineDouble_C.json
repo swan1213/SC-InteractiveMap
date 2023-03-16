@@ -1,0 +1,21 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Lines/PatternDesc_LineDouble.PatternDesc_LineDouble_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_DoubleLine_256.png",
+        "patternName"   : "Double Line",
+        "patternGroup"  : "Lines",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-400,-400],[-385,-400],[-385,400],[-400,400]
+                ]
+            },
+            {
+                "points": [
+                    [400,-400],[385,-400],[385,400],[400,400]
+                ]
+            }
+        ]
+    }
+}

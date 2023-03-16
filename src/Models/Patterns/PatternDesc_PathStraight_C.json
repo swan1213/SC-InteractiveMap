@@ -1,0 +1,26 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Pathways/PatternDesc_PathStraight.PatternDesc_PathStraight_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_StraightPath_256.png",
+        "patternName"   : "Straight Path",
+        "patternGroup"  : "Paths",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-200,-400],[-160,-400],[-160,400],[-200,400]
+                ]
+            },
+            {
+                "points": [
+                    [-120,-400],[120,-400],[120,400],[-120,400]
+                ]
+            },
+            {
+                "points": [
+                    [160,-400],[200,-400],[200,400],[160,400]
+                ]
+            }
+        ]
+    }
+}

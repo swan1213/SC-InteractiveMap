@@ -1,0 +1,31 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Pathways/PatternDesc_PathZebra.PatternDesc_PathZebra_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_SmallCrosswalk_256.png",
+        "patternName"   : "Small Crosswalk",
+        "patternGroup"  : "Paths",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-200,-400],[-200,-330],[200,-330],[200,-400]
+                ]
+            },
+            {
+                "points": [
+                    [-200,-200],[200,-200],[200,-70],[-200,-70]
+                ]
+            },
+            {
+                "points": [
+                    [-200,200],[200,200],[200,70],[-200,70]
+                ]
+            },
+            {
+                "points": [
+                    [-200,400],[-200,330],[200,330],[200,400]
+                ]
+            }
+        ]
+    }
+}

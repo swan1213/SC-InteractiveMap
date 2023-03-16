@@ -1,0 +1,26 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Lines/PatternDesc_DottedCentreCorner.PatternDesc_DottedCentreCorner_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_CenterCornerDottedLine_256.png",
+        "patternName"   : "Centre Corner Dotted Line",
+        "patternGroup"  : "Lines",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-15,-350],[15,-350],[15,-170],[-15,-170]
+                ]
+            },
+            {
+                "points": [
+                    [-15,-90],[15,-90],[15,-15],[90, -15],[90,15],[-15,15]
+                ]
+            },
+            {
+                "points": [
+                    [350,-15],[350,15],[170,15],[170,-15]
+                ]
+            }
+        ]
+    }
+}

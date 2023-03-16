@@ -1,0 +1,16 @@
+{
+    "/Game/FactoryGame/Buildable/-Shared/Customization/Patterns/Lines/PatternDesc_LineCentre.PatternDesc_LineCentre_C": {
+        "patternImage"  : "/img/patternIcons/IconDesc_StraightLine_256.png",
+        "patternName"   : "Centre Line",
+        "patternGroup"  : "Lines",
+
+        "scale"     : 1,
+        "forms"     : [
+            {
+                "points": [
+                    [-15,-400],[15,-400],[15,400],[-15,400]
+                ]
+            }
+        ]
+    }
+}
