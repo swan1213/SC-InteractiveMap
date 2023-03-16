@@ -1,1 +1,1 @@
-# SC-InteractiveMap
+# SC-InteractiveMap.
